@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/4a836a88-3445-4b29-a104-1fedd30fb64f
+View your app in - fantastic-frangollo-4a7d66.netlify.app 
 
 ## Run Locally
 
